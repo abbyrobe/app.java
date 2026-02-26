@@ -1,0 +1,20 @@
+Package week5;
+
+public class Student{
+   Static private String Name;//instance variable
+   Static private String Course;// class variable
+    public Student() {
+        
+    }
+
+public void Enroll(){
+    String StudentName;// local variable
+
+}
+public static void ChangeCourse(){
+    for(int i = 0;i<10;i++){
+
+    }
+int i = 12;
+}
+}

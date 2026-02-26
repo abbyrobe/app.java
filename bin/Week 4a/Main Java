@@ -1,0 +1,13 @@
+Package Week4;
+public class Main {
+    public Static void Main(String[] args) {
+        System.out.println(X:"Start java");
+
+        student st1 = new student(name:"Alice", age:20);
+        student st2 = new student(name:"Bob", age:22);
+        //st1.displayInfo();
+    }
+    
+    
+    }
+}

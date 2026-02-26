@@ -1,0 +1,4 @@
+Package week5;
+public abstract class Demo {
+    public abstract void demo();
+}

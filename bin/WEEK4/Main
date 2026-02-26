@@ -1,0 +1,11 @@
+package Week4;
+
+public class Main {
+    public static void main(string)args){
+        Exam ex = new Exam();//create the object
+        ex.getMean();// use the object to access the class
+        ex.getName();
+        ex.getStudentResults();
+
+    }
+}

@@ -1,0 +1,17 @@
+package Week3;
+
+import java,util.scanner;
+
+public class GetInputs {
+    public Static void main(String[]args){
+        getName();
+
+    }
+    public static void getName(){
+        Scanner SC = new Scanner (System.In);// create an object
+        System.out. println( "Enter a number");
+        int num = SC
+    }
+}
+
+]

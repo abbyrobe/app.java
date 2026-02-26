@@ -1,0 +1,15 @@
+package Week4;
+Public class constructors {
+    public constructors() {
+        System.out.println("First");
+    }
+    public constructors(String name, int age) {
+        System.out.println("second");
+    }
+    public  void display() {
+        System.out.println("Dispaly something");
+       
+    }
+}public constructors(String name,int age) {
+        System.out.println("Third");
+       

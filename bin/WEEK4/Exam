@@ -1,0 +1,17 @@
+package Week4;
+
+public class Exams {
+    int getMean(){
+        System.out.println("Inside getName");
+        return 0;
+    }
+    string getName(){
+        string name ="";
+        System.out.println ("Inside getNmae");
+        return name;
+    }
+    int getStudent Result(){
+        System.out.println ( "Inside get individual result");
+        return 0;
+    }
+}
